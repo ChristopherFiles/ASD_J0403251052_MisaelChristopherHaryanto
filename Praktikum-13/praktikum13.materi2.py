@@ -1,6 +1,6 @@
-# Nama : Baytul Rafli
-# NIM  : J0403251027
-# Kelas: B/P1 
+# Nama : Misael Christopher Haryanto
+# NIM  : J0403251052
+# Kelas: B1
 
 # Mengimpor modul heapq untuk menggunakan struktur data Min-Priority Queue (antrean prioritas)
 import heapq 
